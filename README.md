@@ -1,6 +1,3 @@
-Here is a detailed and engaging README text for your Skylight Hotel project:
-
----
 
 # 🌟 Ethiopian Skylight Hotel Management Platform
 
@@ -116,14 +113,8 @@ server/
 ## 📸 Screenshots
 
 ### Home Page 🏠
-![Home Page](client/src/assets/hero1.jpg)
-
 ### Room Listing 🛏️
-![Room Listing](client/src/assets/hero2.jpg)
-
 ### Booking Page 📅
-![Booking Page](client/src/assets/hero3.jpg)
-
 ---
 
 ## 🤝 Contributing
